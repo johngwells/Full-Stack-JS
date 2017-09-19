@@ -1,0 +1,28 @@
+{
+  "name": "full-stack-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molekewl/Full-Stack-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molekewl/Full-Stack-JS/issues"
+  },
+  "homepage": "https://github.com/molekewl/Full-Stack-JS#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.6.0",
+    "body-parser": "^1.18.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12",
+    "nodemon": "^1.12.1"
+  }
+}
